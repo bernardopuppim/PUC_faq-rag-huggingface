@@ -1,0 +1,838 @@
+Manual Técnico de Escolha de Equipamentos de Snowboard
+1. Introdução
+Snowboard é um esporte que combina técnica, resistência física, equipamentos adequados e muita segurança.
+Escolher o equipamento certo impacta diretamente na performance, conforto, segurança e progressão no esporte.
+Este guia aborda todos os itens essenciais — desde roupas térmicas até a prancha — considerando peso, altura, nível de experiência, tipo de neve, clima, modalidade e orçamento.
+
+2. Vestimenta Técnica para Snowboard
+2.1 Camadas de Roupa (Layering System)
+O sistema de camadas é a forma mais eficiente de manter a temperatura corporal e controlar a umidade.
+
+1ª Camada – Base Layer (segunda pele)
+Função: manter o corpo seco, transportando o suor para fora.
+
+Material: poliéster técnico, poliamida ou lã merino.
+
+Evite: algodão (absorve umidade e esfria o corpo).
+
+Espessura: escolha mais fina para temperaturas amenas e mais grossa para temperaturas negativas extremas.
+
+2ª Camada – Mid Layer (isolamento térmico)
+Função: reter calor corporal.
+
+Opções: fleece, jaqueta leve de pluma (down) ou sintética (Primaloft).
+
+Para neve úmida (ex.: América do Sul), priorize isolante sintético, que mantém calor mesmo molhado.
+
+3ª Camada – Outer Layer (corta-vento e impermeável)
+Função: proteção contra vento, neve e chuva.
+
+Características-chave:
+
+Impermeabilidade: mínimo 10.000 mm (20.000 mm+ para neves úmidas).
+
+Respirabilidade: 10.000 g/m²/24h ou mais.
+
+Costuras seladas (taped seams).
+
+Ventilação (pit zips).
+
+2.2 Calça de Snowboard
+Mesmas especificações técnicas da jaqueta (impermeabilidade e respirabilidade).
+
+Corte: regular ou relaxed para mobilidade.
+
+Proteção extra: reforço nos tornozelos contra cortes das lâminas da prancha.
+
+2.3 Luvas ou Mittens
+Impermeáveis, respiráveis e com isolamento térmico.
+
+Luvas (gloves): mais destreza, melhor para manusear equipamentos.
+
+Mittens: mais calor, menos destreza (ideal para temperaturas muito baixas).
+
+Extras: punho ajustável, fecho contra entrada de neve, compatibilidade com tela sensível ao toque.
+
+2.4 Meias de Snowboard
+Comprimento: até o joelho.
+
+Material: lã merino ou fibras técnicas.
+
+Evite: meias muito grossas que comprimam a circulação.
+
+3. Óculos de Neve (Goggles)
+3.1 Funções
+Proteção contra UV.
+
+Melhor contraste e visibilidade em diferentes condições de luz.
+
+Proteção contra vento e neve.
+
+3.2 Critérios de escolha
+Lente:
+
+Lentes escuras/espelhadas: dias ensolarados.
+
+Lentes claras/amareladas: dias nublados ou com neblina (low light).
+
+Tecnologia antiembaçante (anti-fog).
+
+Compatibilidade com o capacete (evitar gaps que deixem pele exposta).
+
+Sistema de troca rápida de lentes é útil para variar conforme o clima.
+
+4. Capacete
+4.1 Segurança
+Certificação: CE EN 1077 (Europa) ou ASTM F2040 (EUA/Canadá).
+
+Deve absorver impacto e proteger contra penetração de objetos.
+
+4.2 Ajuste
+Justo, mas confortável, sem pontos de pressão.
+
+Sistema de ajuste fino (dial fit).
+
+Testar com as goggles para encaixe perfeito.
+
+5. Botas de Snowboard
+5.1 Tipos de Flex
+Soft flex: iniciantes, freestyle.
+
+Medium flex: all-mountain, freeride leve.
+
+Stiff flex: freeride técnico, alta velocidade.
+
+5.2 Sistemas de fechamento
+Traditional Laces: ajuste preciso, mas mais lentos.
+
+BOA System: rápido, prático (1 ou 2 zonas de ajuste).
+
+Hybrid: combinação de cadarço tradicional e BOA.
+
+5.3 Ajuste ao pé
+Sempre provar com a meia que vai usar.
+
+O calcanhar deve ficar firme (heel hold).
+
+O dedo do pé deve encostar levemente na ponta quando parado e afastar levemente quando flexiona o joelho.
+
+6. Prancha de Snowboard
+6.1 Comprimento
+Regra geral: quando posicionada em pé, deve ficar entre o queixo e o nariz.
+
+Ajuste fino:
+
+Mais curta: mais manobrável (freestyle).
+
+Mais longa: mais estabilidade (velocidade, freeride).
+
+Peso do rider: cada prancha tem uma faixa de peso recomendada pelo fabricante — siga essa especificação.
+
+6.2 Largura
+Wide boards: indicadas para quem calça acima de 44 (BR) / 11 (US), para evitar toe drag.
+
+Padrão para pés menores.
+
+6.3 Tipos de Shape
+Directional: ponta (nose) maior que a cauda (tail) — ideal para freeride/powder.
+
+Twin: simétrica — ideal para freestyle.
+
+Directional Twin: híbrida — bom para all-mountain.
+
+6.4 Camber Profile
+Camber tradicional: mais estabilidade e pop, bom para pistas duras.
+
+Rocker: mais flutuação na neve fofa, menos propenso a travar.
+
+Flat: estabilidade intermediária.
+
+Híbridos (Camber + Rocker): combina estabilidade com flutuação.
+
+6.5 Modalidade x Características
+Modalidade	Flex	Shape	Camber Profile	Comprimento
+Freestyle	Suave a médio	Twin	Rocker ou híbrido	Mais curto
+Freeride	Médio a rígido	Directional	Camber ou híbrido	Mais longo
+All-Mountain	Médio	Directional Twin	Híbrido	Intermediário
+Powder	Médio a rígido	Directional	Rocker na ponta	Longo e largo
+
+7. Bindings (Fixações)
+7.1 Tipos
+Strap-in: mais comuns, dois straps ajustáveis.
+
+Rear-entry (speed entry): mais rápidas de calçar, mas menos ajuste fino.
+
+7.2 Flex
+Deve acompanhar o flex da bota e do estilo de prática.
+
+8. Considerações Regionais e Climáticas
+8.1 América do Sul (Chile, Argentina)
+Neve mais úmida → equipamentos com maior impermeabilidade (20.000 mm+).
+
+Temperaturas variáveis → camadas versáteis.
+
+8.2 América do Norte (Rockies, Canadá)
+Neve seca e temperaturas muito baixas → isolamento térmico mais robusto.
+
+8.3 Japão (Hokkaido)
+Powder abundante → pranchas com nose largo e rocker pronunciado.
+
+9. Nível de Experiência
+Iniciantes: flex mais suave, pranchas estáveis e tolerantes, botas confortáveis.
+
+Intermediários: equipamentos equilibrados para progressão técnica.
+
+Avançados: setups específicos para modalidade e performance.
+
+10. Checklist Final de Escolha
+Definir modalidade principal (freestyle, freeride, all-mountain, powder).
+
+Medir peso, altura e número do pé.
+
+Selecionar prancha conforme peso e estilo.
+
+Escolher bota com ajuste perfeito.
+
+Combinar flex da prancha, bota e fixação.
+
+Optar por roupas técnicas adequadas ao clima da região.
+
+Garantir goggles e capacete compatíveis.
+
+Investir em segurança e conforto antes de estética.
+
+Manual técnico (avançado) para escolher seu equipamento de snowboard
+0) dados que você precisa ter em mãos (antes de comprar)
+Altura (cm) e peso (kg).
+
+Comprimento da perna (inseam, cm) → meça da virilha ao chão, descalço.
+
+Comprimento do pé (cm / mondo) → encoste o calcanhar na parede, meça até a ponta do dedo mais longo. Esse valor em cm é o seu Mondo size da bota.
+
+Circunferência da cabeça (cm) → na altura das sobrancelhas (capacete).
+
+Circunferência da mão (cm) → ao redor dos nós dos dedos (luvas).
+
+Região de prática (neve seca/fria x neve úmida/variável).
+
+Modalidade predominante (freeride, freestyle, all-mountain, carving/pista, powder).
+
+Nível (iniciante, intermediário, avançado).
+
+1) sistema de roupas (layering) — ciência do conforto térmico
+1.1 base layer (segunda pele)
+Função: transportar suor para longe da pele.
+
+Materiais: poliéster técnico, poliamida, lã merino (180–260 g/m² p/ frio moderado; 260–320 g/m² p/ frio intenso).
+
+Evite: algodão.
+
+Ajuste: colado ao corpo, sem comprimir circulação.
+
+Extras úteis: costura plana (flatlock), tratamento anti-odor.
+
+1.2 mid layer (isolamento)
+Opções: fleece (200–300 g/m²), sintético “puffy” (40–100 g/m² de Primaloft ou similar), ou pluma (down 650–800 fill).
+
+Neve úmida/chuva leve: prefira sintético (mantém calor mesmo úmido).
+
+Neve muito fria e seca: down leve/compacto funciona bem sob shell.
+
+1.3 outer layer (jaqueta e calça)
+Impermeabilidade (coluna d’água):
+
+10.000 mm → básico para neve seca;
+
+15.000–20.000+ mm → recomendado para neve úmida/Andes ou dias de chuva/neve pesada.
+
+Respirabilidade (MVTR): 10.000–20.000 g/m²/24h. Alternativamente, RET < 13 é bom (quanto menor, melhor).
+
+Construção: costuras 100% seladas (fully taped), zíperes impermeáveis, pit zips/ventilações.
+
+Corte: “regular/relaxed” para mobilidade; evite muito justo (atrapalha camadas).
+
+DWR (revestimento repelente): reimpermeabilize quando a água parar de “perolar”.
+
+1.4 acessórios têxteis
+Meias: altura até o joelho; lã merino/sintético; amortecimento moderado; 1 par por vez.
+
+Balaclava/pescoceira: corta-vento e respirável.
+
+Shorts/bermuda acolchoada opcional: protege cóccix e quadril (útil a iniciantes e park).
+
+2) luvas e mittens (mãos quentes = dia feliz)
+2.1 escolha por clima
+Até −5 °C, seco: glove isolado 60–100 g, membrana impermeável/respirável.
+
+Abaixo de −10 °C ou muito vento: mittens (mais quentes) ou “lobster” (meio termo).
+
+Neve úmida/chuva: prioridade máxima para membrana de alta coluna d’água (ex.: 15–20k mm) e palma resistente.
+
+2.2 especificações
+Membrana: Gore-Tex/eVent/proprietárias (o que importa é vedação + respirabilidade).
+
+Isolamento: 60–200 g (quanto mais frio, mais g).
+
+Punho: longo (over-cuff) sela melhor contra neve; curto (under-cuff) dá mais mobilidade.
+
+Recursos: leash (cordão), painéis “nose wipe”, dedos articulados, compatível com tela.
+
+Tamanho: com a mão levemente fechada, sem “apertar unhas”. Use a circunferência como guia do fabricante.
+
+3) goggles (óculos) — ver = performance + segurança
+3.1 lente e VLT (transmissão de luz)
+Sol forte: VLT 5–18% (espelhadas/escura).
+
+Variável: VLT 19–40% (âmbar/rose/verde médios).
+
+Neve/neblina: VLT 41–60%+ (amarela/rosa clara).
+
+Duas lentes (troca rápida magnética) cobrem 95% dos dias.
+
+3.2 formato e compatibilidade
+Formato:
+
+Cilíndrica: leve, custo menor.
+
+Esférica/toric: menos distorção, campo maior.
+
+Anti-fog: espuma ventilada + tratamento interno; nunca toque no lado interno molhado.
+
+OTG: se usar óculos de grau sob a goggle, procure modelo OTG.
+
+Encaixe com capacete: zero “gap” (pele exposta congela).
+
+4) capacete — impacto, rotação e ajuste
+4.1 segurança e construção
+Certificações: CE EN 1077 / ASTM F2040.
+
+Tecnologias de rotação: MIPS, WaveCel, Koroyd (reduzem aceleração rotacional).
+
+Venting: fixo ou ajustável; mais aberturas = melhor controle de temperatura.
+
+Liner: removível e lavável; compatível com áudio se quiser.
+
+4.2 ajuste correto (fit)
+Meça a cabeça (cm) e siga a tabela do fabricante.
+
+Com a goggle, o capacete deve ficar justo, sem pontos de pressão; mexa a cabeça — ele não deve dançar.
+
+Fita jugular ajustada, sem estrangular.
+
+Troque após impacto forte ou a cada 3–5 anos (material degrada).
+
+5) botas — onde conforto encontra controle
+5.1 flex (escala típica 1–10)
+1–4 (suave): iniciante, freestyle/butter, perdoa erros.
+
+5–7 (médio): all-mountain/freeride leve; equilíbrio entre resposta e conforto.
+
+8–10 (rígido): freeride/carving agressivo, alta velocidade.
+
+5.2 fechamento
+Cadarço tradicional: ajuste micro, mais lento.
+
+BOA simples/duplo: rápido; duplo separa canela/peito do pé.
+
+Híbrido (cadarço + BOA/power-strap): precisão + praticidade.
+
+5.3 anatomia e fit fino
+Mondo size = comprimento do pé (cm). Prove com a meia de uso.
+
+Dedo encosta de leve parado; ao flexionar joelho, deve “descolar”.
+
+Heel hold: calcanhar firme (sem levantar ao flexionar).
+
+Liner termo-moldável, palmilha de suporte (arco), J-bars/heel-lock ajudam a travar o calcanhar.
+
+Largura do pé: há botas “wide” (peito do pé alto/pé largo).
+
+Outsole (solado) curto reduz arrasto (toe/heel drag).
+
+6) fixações (bindings) — a ponte prancha-bota
+6.1 tipos
+Strap-in (2 tiras): máximo ajuste, padrão do mercado.
+
+Rear-entry / speed-entry: calçar mais rápido, ajuste um pouco menos fino (varia por marca).
+
+6.2 parâmetros
+Flex do binding acompanha flex da bota/prancha (coerência de rigidez).
+
+Discos de montagem: 2×4, 4×4 ou Channel (ver compatibilidade com a prancha).
+
+Highback: ajuste de forward lean e, idealmente, rotação para alinhar ao canto da prancha.
+
+Footbed: cantos 2–3° aliviam joelhos; amortecimento em EVA; gáspea toe-cap que “abraça” a biqueira da bota.
+
+Tamanho: S/M/L conforme tabela do fabricante para sua bota específica.
+
+7) prancha — onde a mágica acontece
+7.1 comprimento (primeiro corte + ajuste fino)
+Regra base por peso (funciona melhor que “queixo-nariz”):
+
+50–60 kg → 146–152 cm
+
+60–70 kg → 150–156 cm
+
+70–80 kg → 154–160 cm
+
+80–90 kg → 158–164 cm
+
+90–100 kg → 162–168 cm
+Ajustes:
+
+Freestyle/park: −2 a −4 cm da base.
+
+Powder/freeride/carving: +2 a +6 cm.
+
+Iniciante: leve viés para mais curta (facilita controlar).
+
+7.2 largura (waist width) e arrasto
+Meta: overhang 1,0–1,5 cm de cada lado com a bota presa e ângulos definidos.
+
+Guia rápida por Mondo (aprox., varia pelo solado da bota):
+
+Mondo 25–26 → 244–252 mm (waist “regular”)
+
+Mondo 27–28 → 252–258 mm (mid-wide)
+
+Mondo 29–30+ → 258–266+ mm (wide)
+
+Dica pro-level: meça o comprimento real do solado da sua bota (não só o Mondo) e compare com a largura no insert (não apenas waist). Inclinação do binding (ângulos) também reduz arrasto.
+
+7.3 shape (formato)
+True Twin: simétrico; switch perfeito — freestyle/park.
+
+Directional Twin: levemente direcional; versátil — all-mountain.
+
+Directional / Tapered: nose maior, tail menor; powder/freeride.
+
+7.4 perfil (camber/rocker/híbridos)
+Camber tradicional: máxima borda/precisão e “pop” — pista/carving.
+
+Rocker: flutuação e tolerância — powder/iniciantes.
+
+Flat: estável no flat, médio em borda.
+
+Híbridos (ex.: camber sob os pés + rocker no nose/tail): equilíbrio all-mountain.
+
+7.5 flex (longitudinal e torcional)
+Freestyle: 3–5 (longitudinal mais macio; torcional solto p/ butters).
+
+All-mountain: 5–7.
+
+Freeride/carving: 7–9 (torcional mais rígido p/ segurar borda).
+
+7.6 construção e base
+Miolo: madeira (álamo/freixo/bambu), algumas com carbono/basalto (pop/resposta).
+
+Lâmina/base:
+
+Extruded (fundida): menos manutenção, mais lenta; boa p/ parque/uso casual.
+
+Sintered (sinterizada): mais porosa → mais rápida com cera; requer manutenção.
+
+Bordas: 1° de base bevel + 2° de side edge é um ponto de partida sólido (gelo exige side 2–3°).
+
+7.7 stance (largura e ângulos)
+Largura inicial: ≈ 0,29 × inseam (cm). Ajuste 1–2 cm p/ conforto/estilo.
+
+Ângulos de referência:
+
+Iniciante all-mountain: +15° / −6° (duck leve)
+
+Freestyle/park: +12° / −12° (duck simétrico)
+
+Carving pista: +21° / +6° (direcional)
+
+Powder: +18° / −3° com setback (binds mais para trás)
+
+Setback: 10–30 mm em powder/freeride aumenta flutuação.
+
+8) combinando tudo por modalidade
+Modalidade	Bota (flex)	Prancha (shape/perfil)	Binding (flex)	Ângulos / Stance	Observações-chave
+Freestyle/Park	3–5	Twin, rocker ou híbrido	3–5	+12/−12, stance +1–2 cm	Base extruded tolera rails; proteção extra (short acolchoado).
+All-Mountain	5–7	Directional Twin híbrido	5–7	+15/−6	Versatilidade; duas lentes de goggle.
+Freeride/Carving	7–9	Directional, camber/híbrido	7–9	+21/+6; setback 0–10 mm	Bordas afiadas (side 2–3°); base sintered.
+Powder	6–8	Tapered Directional, rocker no nose	6–8	+18/−3; setback 20–30 mm	Nariz largo, às vezes “volume shift” (curta e larga).
+Lazer/Iniciante	4–5	All-mountain tolerante (híbrido)	4–6	+15/−6	Foque em conforto, botas termo-moldáveis.
+
+9) ajuste por região/clima (neve e temperatura)
+Andes (Chile/Argentina) – neve mais úmida, clima variável
+
+Jaqueta/calça 20k/20k se possível; luvas com boa membrana.
+
+Cera all-temp ou quente (−4 °C a +2 °C).
+
+Tenha duas lentes (VLT ~12–18% e ~30–45%).
+
+Rochosas/Canadá – muito frio e seco
+
+Mid-layer mais robusto (fleece 300 ou puffy 60–100 g).
+
+Cera fria (≤ −8 °C).
+
+Mittens ajudam bastante; balaclava térmica.
+
+Japão (Hokkaido) – powder farto
+
+Prancha directional/tapered, setback generoso.
+
+Lentes de VLT médio-alto para “snowing hard”.
+
+Europa (Alpes) – variedade
+
+Priorize kit versátil (duas lentes, mid-layers modulares).
+
+Bordas afiadas para gelo de manhã e “slush” à tarde.
+
+10) segurança ampliada
+Protetor de punho (iniciante e park) reduz risco de fratura.
+
+Back-protector (CE EN 1621-2) para freeride/park.
+
+Backcountry: trio avalanche (transceptor, sonda, pá) e treinamento.
+
+11) manutenção e longevidade
+Cera: a cada 2–5 dias de uso (sintered precisa mais).
+
+Bordas: afie quando perder “mordida” no gelo; limpe rebarbas após pedras.
+
+Base: conserte “core shots”; mantenha limpa e encerada.
+
+Roupas: lave tecnicamente; reaplique DWR quando saturar.
+
+Botas: seque o liner (à sombra), troque a palmilha se deformar.
+
+Capacete: guardar longe de calor; substituir após impacto.
+
+12) passo-a-passo de compra (decisão objetiva)
+Defina a modalidade principal (e secundária).
+
+Prancha: selecione comprimento pela faixa de peso, depois ajuste por estilo; checar waist para seu Mondo (evitar arrasto).
+
+Bota: prove 2–3 marcas no seu Mondo; escolha o flex do seu estilo e confirme heel hold.
+
+Binding: combine o flex da bota e verifique compatibilidade do disco; ajuste highback/footbed.
+
+Stance: comece em 0,29 × inseam; aplique ângulos do seu estilo e faça 2–3 descidas de teste ajustando.
+
+Roupas: para Andes/tempo úmido → 20k/20k; Rockies frias → invista no mid-layer.
+
+Goggles: duas lentes (VLT baixo e médio); encaixe perfeito com o capacete.
+
+Luvas/Mittens: escolha pelo frio/umidade; confira destreza vs. calor.
+
+Check final: tudo confortável, sem pontos de pressão; mobilidade completa.
+
+13) tabelas e fórmulas rápidas
+13.1 largura de stance (ponto de partida)
+Stance (cm) ≈ 0,29 × inseam (cm)
+Ex.: inseam 80 cm → stance ≈ 23 cm (ajuste +/− 1–2 cm conforme conforto).
+
+13.2 ângulos sugeridos (ajuste fino depois)
+Iniciante all-mountain: +15° / −6°
+
+Freestyle: +12° / −12°
+
+Carving: +21° / +6°
+
+Powder: +18° / −3° com setback 20–30 mm
+
+13.3 VLT (goggles)
+Sol: 5–18% | Variável: 19–40% | Neve/neblina: 41–60%+
+
+13.4 isolamento (referências usuais)
+Jaquetas/calças: 40–80 g (leve) | 80–120 g (frio)
+
+Luvas: 60–200 g (dependendo do frio/vento)
+
+14) setups de referência (exemplos práticos)
+A) iniciante all-mountain (neve úmida dos Andes)
+Prancha: Directional Twin híbrida, comprimento pela tabela base (talvez −2 cm se quiser mais dócil), base extruded (mais fácil de manter).
+
+Bota: flex 4–5, BOA duplo (praticidade + ajuste), liner termo-moldável.
+
+Binding: flex 4–6, footbed com cantos 2–3°.
+
+Roupas: shell 20k/20k + mid-layer sintético 60–100 g.
+
+Goggles: 2 lentes (VLT 12–18% e 35–45%).
+
+Ângulos: +15°/−6°; stance = 0,29×inseam.
+
+B) freestyle/park (clima frio e seco)
+Prancha: Twin, rocker/híbrido, −2 a −4 cm do “comprimento base”; base extruded; flex 3–5.
+
+Bota: flex 3–5, boa liberdade de tornozelo.
+
+Binding: flex 3–5, highback mais baixo, toe-cap eficiente.
+
+Roupas: casaco médio isolado + calça 15k/15k com ventilação.
+
+Ângulos: +12°/−12°, stance 1–2 cm mais largo.
+
+C) freeride/carving (pista dura, velocidade)
+Prancha: Directional/híbrido com camber predominante, +2 a +6 cm; base sintered; flex 7–9.
+
+Bota: flex 7–9, heel hold impecável.
+
+Binding: flex 7–9, highback com bom forward lean.
+
+Ângulos: +21°/+6°, setback leve.
+
+Bordas: side 2–3°, base 1°.
+
+D) powder (Japão/nevão)
+Prancha: Tapered directional, nose rocker, volume-shift (curta e larga) opcional; setback 20–30 mm.
+
+Bota: 6–8; Binding: 6–8.
+
+Ângulos: +18°/−3°.
+
+15) orçamento inteligente (onde investir primeiro)
+Botas (fit = tudo).
+
+Capacete + goggles (segurança/visão).
+
+Jaqueta/calça (conforto dia inteiro).
+
+Prancha + bindings (depois que você sabe o que curte).
+
+16) erros comuns (e como evitar)
+Comprar bota grande “pelo conforto”. Resultado: calcanhar solto e controle ruim.
+
+Ignorar waist width. Toe/heel drag acaba com a borda.
+
+Uma lente só de goggle. Dia vira loteria quando o tempo muda.
+
+Roupas de algodão. Você vai ficar encharcado e com frio.
+
+Prancha muito rígida para iniciante. Evolução fica lenta e cansativa.
+
+# 📚 Dicionário Técnico de Snowboard
+
+## A
+- **All-Mountain**  
+  Estilo de snowboard versátil para todos os tipos de terreno e condições, combinando elementos de pista, powder e park.
+
+- **Avalanche Gear**  
+  Conjunto de equipamentos de segurança para áreas fora de pista (transceptor, sonda, pá).
+
+## B
+- **Back Protector**  
+  Protetor de coluna usado para absorver impactos em quedas ou colisões, comum no freeride e park.
+
+- **Balaclava**  
+  Máscara ou protetor de rosto usado sob o capacete para aquecimento e proteção contra vento e neve.
+
+- **Base (da prancha)**  
+  Parte inferior da prancha que entra em contato com a neve. Pode ser **extruded** (fundida, mais simples) ou **sintered** (sinterizada, mais rápida e porosa).
+
+- **Base Bevel**  
+  Ângulo de afiação na base da borda (1° comum), influencia a facilidade de iniciar curvas.
+
+- **Bindings (Fixações)**  
+  Sistema que conecta as botas à prancha. Pode ser de **strap-in** (duas tiras), **rear-entry** (entrada rápida) ou híbridos.
+
+- **BOA System**  
+  Sistema de fechamento de botas que usa cabos de aço e catraca giratória para ajuste rápido e preciso.
+
+## C
+- **Camber**  
+  Perfil da prancha onde o centro é elevado quando não está carregada. Proporciona melhor resposta, estabilidade e pop.
+
+- **Capacete**  
+  Equipamento de segurança certificado para absorver impactos e proteger contra objetos pontiagudos.
+
+- **Carving**  
+  Técnica de curva que utiliza a borda da prancha para deslizar sobre a neve sem derrapar.
+
+## D
+- **Directional**  
+  Prancha projetada para ser usada preferencialmente em uma direção, com nose maior que o tail.
+
+- **Directional Twin**  
+  Prancha quase simétrica, mas com pequenas diferenças no nose/tail, permitindo bom desempenho tanto para frente quanto de switch.
+
+- **DWR (Durable Water Repellent)**  
+  Revestimento aplicado em tecidos para repelir água e manter a impermeabilidade.
+
+- **Duck Stance**  
+  Posição de bindings com ângulos negativos no pé traseiro (ex.: +15° / −6°), facilitando andar de switch.
+
+## E
+- **Edge (Borda)**  
+  Lâmina de aço ao redor da prancha responsável pela tração na neve.
+
+- **Extruded Base**  
+  Base de prancha fundida, menos porosa, mais barata e de manutenção simples, mas mais lenta.
+
+## F
+- **Flex**  
+  Nível de rigidez da prancha ou bota (escala 1–10), influenciando resposta, estabilidade e conforto.
+
+- **Forward Lean**  
+  Ajuste da inclinação para frente do highback das fixações, aumentando a resposta em curvas.
+
+- **Freeride**  
+  Modalidade focada em terrenos naturais, neve profunda e descidas fora de pista.
+
+- **Freestyle**  
+  Modalidade com foco em manobras, saltos, rails e park.
+
+## G
+- **Goggles**  
+  Óculos de proteção usados na neve para proteger contra raios UV, vento e neve, além de melhorar contraste.
+
+## H
+- **Heel Hold**  
+  Capacidade da bota de manter o calcanhar firme para evitar movimentação interna.
+
+- **Highback**  
+  Parte traseira vertical da fixação que dá suporte à panturrilha e influencia o controle de borda.
+
+- **Hybrid Profile**  
+  Perfil de prancha que combina camber e rocker para equilibrar estabilidade e flutuação.
+
+## I
+- **Impermeabilidade (coluna d’água)**  
+  Medição da resistência de um tecido à penetração de água (em mm). Quanto maior, mais resistente.
+
+- **Inseam**  
+  Medida do interior da perna, do chão à virilha, usada para calcular stance e ajustes de roupa.
+
+## J
+- **J-Bars**  
+  Peças no liner da bota para melhorar o heel hold.
+
+## L
+- **Liner**  
+  Parte interna da bota, removível e termo-moldável.
+
+## M
+- **Mondo Size**  
+  Tamanho da bota em centímetros, equivalente ao comprimento real do pé.
+
+- **Mid Layer**  
+  Camada intermediária de vestuário para isolamento térmico.
+
+- **Mid-Wide**  
+  Prancha com largura intermediária, adequada para pés médios/grandes.
+
+- **MIPS**  
+  Tecnologia em capacetes que reduz a força rotacional em impactos oblíquos.
+
+## N
+- **Nose**  
+  Parte frontal da prancha.
+
+## O
+- **OTG (Over The Glasses)**  
+  Modelo de goggle projetado para ser usado sobre óculos de grau.
+
+## P
+- **Pit Zips**  
+  Zíperes de ventilação localizados na área das axilas de jaquetas técnicas.
+
+- **Powder**  
+  Neve fofa e solta, geralmente recém-caída.
+
+- **Primaloft**  
+  Isolamento sintético eficiente mesmo úmido.
+
+## R
+- **Rocker**  
+  Perfil da prancha onde o centro é abaixado e o nose/tail elevados.
+
+## S
+- **Setback**  
+  Recuo das fixações em relação ao centro da prancha.
+
+- **Shell**  
+  Camada externa de roupa impermeável e respirável.
+
+- **Sidecut**  
+  Curvatura lateral da prancha que influencia o raio de curva.
+
+- **Side Edge**  
+  Ângulo de afiação na lateral da borda.
+
+- **Sintered Base**  
+  Base de prancha sinterizada, mais rápida e porosa.
+
+- **Softshell**  
+  Material flexível e resistente à água.
+
+- **Stance**  
+  Distância entre as fixações na prancha.
+
+- **Switch**  
+  Andar com o pé não dominante à frente.
+
+## T
+- **Tail**  
+  Parte traseira da prancha.
+
+- **Toe Cap**  
+  Parte da cinta frontal da fixação que cobre a ponta da bota.
+
+- **True Twin**  
+  Prancha totalmente simétrica, ótima para andar de switch.
+
+- **Twin Tip**  
+  Design simétrico no shape e flex.
+
+## V
+- **VLT (Visible Light Transmission)**  
+  Percentual de luz que atravessa a lente da goggle.
+
+- **Volume Shift**  
+  Design de prancha mais curta e larga, mantendo volume total.
+
+## W
+- **Waist Width**  
+  Largura da prancha na parte mais estreita.
+
+
+1️⃣ Biomecânica e ajuste pessoal
+Mobilidade do tornozelo e joelho: se você tem limitação de mobilidade ou histórico de lesão, pode precisar de botas com flex diferente do padrão para sua modalidade.
+
+Assimetria corporal: diferenças de força ou flexibilidade entre pernas podem influenciar stance e ângulos — vale ajustar depois de experimentar.
+
+Prova real em loja: ficar 15–20 minutos com a bota no pé antes de decidir. O desconforto pequeno no início tende a aumentar na montanha.
+
+2️⃣ Compatibilidade e “casamento” do setup
+Flex coerente entre prancha, fixação e bota (ex.: prancha dura com bota muito mole = resposta ruim).
+
+Sistema de montagem (2x4, 4x4, Channel) precisa ser compatível com bindings.
+
+Waist Width + sola da bota: não basta seguir número do pé, é preciso medir a sola real (diferentes marcas têm comprimentos distintos para mesmo mondo).
+
+Capacete + goggles: testar juntos para evitar “gaper gap” (buraco que deixa pele exposta ao frio/queimadura).
+
+3️⃣ Condições ambientais e logística
+Tipo de neve predominante no destino (úmida/Andes, seca/Canadá, powder/Japão) muda impermeabilidade, perfil da prancha e tipo de cera.
+
+Temperatura média e variação ao longo do dia: em lugares com grande variação, um bom sistema de camadas vale mais que um casaco muito pesado.
+
+Acesso e transporte: se vai viajar de avião, verifique dimensões e proteção da mala de snowboard (board bag acolchoada, com rodas, pode salvar seu equipamento).
+
+4️⃣ Segurança e durabilidade
+Proteções adicionais: protetor de punho para iniciantes, back protector para freeride, shorts acolchoados para park.
+
+Capacete com tecnologia MIPS ou similar para reduzir impacto rotacional.
+
+Manutenção preventiva: saber encerar, afiar e reparar base evita perda de performance.
+
+Vida útil: botas ~3–5 temporadas intensas; pranchas variam (park desgasta mais rápido).
+
+5️⃣ Experiência e evolução no esporte
+Testar antes de comprar: resorts e lojas grandes oferecem “demo days” — você experimenta prancha/bota/binding antes de investir.
+
+Modalidade real x imaginada: muitos compram pensando em freestyle e acabam no all-mountain; vale refletir sobre onde vai passar mais tempo.
+
+Investimento gradual: é possível começar com aluguel para entender preferências, e depois investir nas peças que mais impactam o conforto e performance (bota → capacete/goggles → prancha/bindings → roupas top).
+
+Ajustes pós-compra: stance, ângulos e setback podem ser alterados a qualquer momento; não é fixo para sempre.
+
